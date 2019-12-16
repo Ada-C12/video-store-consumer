@@ -68,7 +68,7 @@ If I am a rental store employee...
 
 - From the home page, I can navigate to the following pages:
   - Movie search page
-  - Movie library page
+  - Rental library page
   - Customer list page
 - From the movie search page, I can search for a movie by title from the external API
 - From the movie search results, I can add a movie from the search results to the rental library
